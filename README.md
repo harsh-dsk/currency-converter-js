@@ -8,8 +8,9 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates API integrat
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="./currency-converter.png" alt="Currency Converter Screenshot" width="700"/>
+  <img src="./assets/currency-converter.png" width="700" />
 </p>
+
 
 ---
 
