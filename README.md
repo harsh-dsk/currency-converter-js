@@ -1,6 +1,6 @@
 # 💱 Real-Time Currency Converter
 
-A web-based currency converter that allows users to convert between different currencies using **live exchange rates**.  
+A web-based currency converter that allows users to convert between different currencies using **live exchange rates**.
 Built with **HTML, CSS, and JavaScript**, this project demonstrates API integration and asynchronous JavaScript.
 
 ---
@@ -18,10 +18,13 @@ Built with **HTML, CSS, and JavaScript**, this project demonstrates API integrat
 
 ## 🛠 Tech Stack
 
-- **HTML5** – Structure  
-- **CSS3** – Styling & responsiveness  
-- **JavaScript (ES6)** – Logic & API handling  
-- **Exchange Rate API** – Live currency data  
+- **HTML5** – Structure
+- **CSS3** – Styling & responsiveness
+- **JavaScript (ES6)** – Logic & API handling
+- **Exchange Rate API** – Live currency data
+
+  ```
+
+  ```
 
 ---
-
